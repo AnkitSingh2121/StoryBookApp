@@ -1,2 +1,0 @@
-# StoryBookApp
-Android, xml, firebase
